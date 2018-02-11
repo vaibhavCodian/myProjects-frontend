@@ -1,0 +1,102 @@
+
+html{
+    
+    height: 100%;
+    
+}
+
+body{
+    
+    background-color: darkcyan;
+    background: url(images/sparkles.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+   
+    
+}
+
+
+ .navbar-default .navbar-brand {
+    
+    font-family: 'Pacifico', cursive;
+    color: ghostwhite;
+    
+    
+}
+
+.navbar-default {
+    background-color:currentColor;
+    border: 0;
+}
+
+
+.nav li:active {
+    
+    background-color: aquamarine;
+
+    
+    
+}
+
+.nav li:hover {
+    
+    background-color: #fdcf58;
+    
+}
+
+
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+
+
+.twiter{
+    
+    color: #fff;
+    
+}
+
+.center{
+    text-align: center;
+    padding: 20%;
+}
+
+
+
+h1 {
+    
+    color: #fff;
+    font-size: 40px;
+}
+
+p{
+    color: #fff;
+    font-family:monospace;
+    font-size: 1.5em;
+}
+
+button{
+    
+    font-family: monospace;
+    background-color:  #fdcf58;
+    color: #fff;
+    border: 0;
+    padding: 10px 10px;
+    margin: 0 auto;
+    margin-top: 150px; 
+    
+    
+}
+
+button:hover{
+    
+    background-color: #7ad6c3;
+    color: #fff;
+}
+
+button:active button>i{
+    
+    width:auto;
+    
+}

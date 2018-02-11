@@ -1,0 +1,70 @@
+body{
+    
+    background:url("../images/img01.jpeg")
+    no-repeat center fixed;
+    background-size: cover;
+    font-family: 'combo', cursive;
+    
+    
+}
+
+h1{
+    
+    
+font-size: 3.5em;
+font-family: 'Gloria Hallelujah', cursive;
+margin: 0;
+    
+}
+p{
+    
+    margin-top: 0;
+    font-size: 2em;
+    
+}
+
+div{
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #ffa500;
+    color:aliceblue;
+    opacity: 0.9;
+    
+    
+}
+.btn {
+
+    border: none;
+    background: #ff6600;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  -webkit-box-shadow: 0px 1px 30px #e869ca;
+  -moz-box-shadow: 0px 1px 30px #e869ca;
+  box-shadow: 0px 1px 30px #e869ca;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 6px 24px 8px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+    
+    
+    background: #ffb889;
+    
+}
+
+i{
+    
+    font-size: 4em;
+    margin: 0;
+    
+}
+
+
+
+
